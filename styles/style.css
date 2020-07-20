@@ -1,7 +1,12 @@
 
+body {
+    text-align: center;
+}
+
 a {
     color: grey;
     text-decoration: none;
+    padding-left: 10px;
 }
 
 a:hover {
@@ -10,14 +15,31 @@ a:hover {
 
 h3 {color: grey;}
 
-#search-input {
-    border-radius: 10px;
-    border-color: grey;
-    border-width: 0.05mm;
+
+.center {
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
 }
+
+header{
+    text-align: left;
+}
+
 
 .buttons {
     background-color: white;
     color: gray;
     border-radius: 5px;
+}
+
+#search-input {
+    border-radius: 10px;
+    border-color: grey;
+    border-width: 0.05mm; 
+}
+
+.links{
+    text-align: left;
 }

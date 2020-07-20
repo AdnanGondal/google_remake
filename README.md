@@ -1,0 +1,1 @@
+The aim of this project is to demonstrate my HTML and CSS capabilities. 

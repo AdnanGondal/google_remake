@@ -48,7 +48,7 @@ header{
     margin-bottom: 20px;
     width: 400px;
     height: 30px;
-    background: url(/images/searchicon.png) 10px no-repeat, url(/images/mic-icon.png) 445px no-repeat;
+    background: url(../images/searchicon.png) 10px no-repeat, url(../images/mic-icon.png) 445px no-repeat;
     background-size: 3%;
 }
 

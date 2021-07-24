@@ -9,7 +9,7 @@ The site has been deployed to Github Pages and can be accessed via:
 
 https://adnangondal.github.io/google_remake/
 
-## Usage
+## Project status
 Development on this project has been put to a stop. 
 
 ## License
